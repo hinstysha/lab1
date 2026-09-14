@@ -1,0 +1,13 @@
+Хандак Андрей Александрович (11):
+      feat: инициализация проекта и добавление базовых файлов
+      refactor: изменение main.py в ветке feature
+      refactor: изменение main.py в ветке main
+      fix: разрешение конфликта при слиянии ветки feature
+      feat: добавление pre-commit хука для flake8 в директорию hooks
+      docs: добавление отчета git shortlog
+      fix: исправление .gitignore и синтаксиса pre-commit хука
+      feat: добавление файла feature.py в ветку feature
+      refactor: изменение main.py в ветке feature
+      refactor: изменение main.py в ветке main
+      fix: разрешение конфликта слияния веток main и feature
+
