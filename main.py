@@ -1,5 +1,5 @@
 def main():
-   print('Инициализация')
+     print('Ветка feature')
 
 if __name__ == '__main__':
-    main()
+     main()
